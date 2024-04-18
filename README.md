@@ -1,1 +1,1 @@
-# Fundamentos de algoritmos
+# Fundamentos de algoritmos e introdução à programação em Python
