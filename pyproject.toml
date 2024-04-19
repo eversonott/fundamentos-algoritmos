@@ -10,6 +10,11 @@ python = "^3.11"
 mkdocs = "^1.5.3"
 
 
+[tool.poetry.group.doc.dependencies]
+mkdocs-material = "^9.5.18"
+mkdocstrings = "^0.24.3"
+mkdocstrings-python = "^1.9.2"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
