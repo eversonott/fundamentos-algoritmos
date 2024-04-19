@@ -34,7 +34,7 @@ Prof. Everson Otoni
  E principalmente ajudar vocês a pensar como um cientista da computação.
 
 
-![bg left contain](https://i.ibb.co/wsB6yM2/prospecto-do-curso.png)
+![bg left contain](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/prospecto_do_curso.png)
 
 ---
 
@@ -94,7 +94,7 @@ Para instalar o Python no seu sistema operacional Windows, você precisará baix
 
 > https://www.python.org/downloads/
 
-![w:800](./imagens/download_python.png)
+![w:800](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/download_python.png)
 
 Isso fará o download do Python 3 para sitemas 64 bits
 
@@ -104,7 +104,7 @@ Isso fará o download do Python 3 para sitemas 64 bits
 
 Faça o download do instalador executável do Windows (32 ou 64 bits) e clique duas vezes nele para iniciar o assistente de instalação do python, como mostrado abaixo.
 
-![w:500](./imagens/instalacao_python.png)
+![w:500](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/instalacao_python.png)
 
 O processo de instalação é bem simples.
 
@@ -118,7 +118,7 @@ O processo de instalação é bem simples.
 A tela abaixo será mostrada. Aguarde enquanto o instalador completa o processo de instalação.
 
 
-![w:800](./imagens/instalacao_python_progresso.png)
+![w:800](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/instalacao_python_progresso.png)
 
 ---
 
@@ -127,7 +127,7 @@ A tela abaixo será mostrada. Aguarde enquanto o instalador completa o processo 
 Se tudo ocorrer bem, a próxima tela será mostrada. Clique em "Close".
 
 
-![w:800](./imagens/instalacao_python_concluida.png)
+![w:800](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/instalacao_python_concluida.png)
 
 ---
 
@@ -136,7 +136,7 @@ Se tudo ocorrer bem, a próxima tela será mostrada. Clique em "Close".
 Para verificar se a instalação do Python foi bem-sucedida, pesquise no menu iniciar por "cmd" e clique duas vezes para abri-lo.
 
 
-![w:500](./imagens/instalacao_python_verificacao.png)
+![w:500](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/instalacao_python_verificacao.png)
 
 ---
 
@@ -161,7 +161,7 @@ IDLE é um Ambiente de Desenvolvimento e Aprendizagem Integrado.
 
 Para iniciar o shell interativo IDLE, procure o ícone IDLE no menu Iniciar e clique duas vezes nele.
 
-![w:450](./imagens/idle.png)
+![w:450](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/idle.png)
 
 ---
 
@@ -169,14 +169,14 @@ Para iniciar o shell interativo IDLE, procure o ícone IDLE no menu Iniciar e cl
 
 Onde efetivamente, o *interpretador* Python, um programa. Lê e executa o código Python.
 
-![w:500](./imagens/idle_uso.gif)
+![w:500](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/idle_uso.gif)
 
 ---
 
 # Finalmente! O interpretador python
 
 
-![](./imagens/console_python.png)
+![](https://raw.githubusercontent.com/eversonott/fundamentos-algoritmos/main/slides/md/imagens/console_python.png)
 
 Essas primeiras linhas contêm informações sobre o interpretador e o sistema operacional em que está sendo executado.
 
